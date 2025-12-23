@@ -11,3 +11,5 @@ Thumbs.db
 
 # MNE cache / downloads
 MNE-data/
+
+/figures/animation_frames/
