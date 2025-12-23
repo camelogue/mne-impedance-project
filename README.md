@@ -1,6 +1,6 @@
 # EEG Impedance Quality Control with MNE-Python
 
-This project demonstrates a simple and visual EEG quality control (QC) pipeline based on electrode impedance values using **MNE-Python**.
+This project demonstrates a simple and visual EEG quality control (QC) pipeline based on electrode impedance values using **MNE-Python*
 
 ## Project Goals
 - Visualize EEG electrode impedance using scalp topographic maps
